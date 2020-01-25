@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "message": {
+      "type": "string"
+    },
+    "card_id": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "message",
+    "card_id"
+  ]
+}

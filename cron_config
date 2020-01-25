@@ -1,0 +1,2 @@
+#@daily /home/busik/web/crm/daemons/b_notifier
+* * * * * /home/busik/web/crm/daemons/b_notifier

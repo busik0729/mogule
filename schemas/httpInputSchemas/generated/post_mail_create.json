@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "text": {
+      "type": "string"
+    },
+    "client_ids": {
+      "type": "array",
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "client_ids",
+    "text"
+  ]
+}
